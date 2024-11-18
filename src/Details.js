@@ -12,11 +12,15 @@ import react from "./assets/techstack/react.png";
 import tailwind from "./assets/techstack/tailwind.png";
 import bootstrap from "./assets/techstack/bootstrap.png";
 import codeigniter from "./assets/techstack/codeigniter.png";
+import php from "./assets/techstack/php.png";
+import phpmyadmin from "./assets/techstack/phpmyadmin.png";
+import python from "./assets/techstack/python.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import figma from "./assets/techstack/figma.png";
+import msoffice from "./assets/techstack/ms-office.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
@@ -90,11 +94,16 @@ export const techStackDetails = {
   react: react,
   tailwind: tailwind,
   bootstrap: bootstrap,
+  codeigniter : codeigniter,
+  php : php,
+  phpmyadmin :phpmyadmin, 
+  python : python,
   vscode: vscode,
   npm: npm,
   git: git,
   github: github,
   figma: figma,
+  msoffice : msoffice,
 };
 
 // Enter your Project Details here
