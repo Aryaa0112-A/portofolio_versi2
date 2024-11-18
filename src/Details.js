@@ -39,7 +39,7 @@ export const personalDetails = {
   tagline: "Front-End Developer",
   img: profile,
   about: `My name is Arya Dillah, and I am a Front-End Developer.
-A dedicated Information Systems student with diverse experience in industry, retail, and administration. Skilled in managing online stores, data administration, and customer service.
+A dedicated Information Systems student with diverse experience in computer networking, industry, retail, and administration. Skilled in configuring computer networks, managing online stores, data administration, and customer service.
 Currently seeking an opportunity to apply academic knowledge and practical experience in a challenging information technology role.`,
 };
 
