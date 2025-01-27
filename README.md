@@ -1,9 +1,9 @@
 # React Developer Portfolio template
-#### Live Demo https://react-portfolio-v1.netlify.app/
+#### Live Demo https://aryadillah.vercel.app/
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
 ### Preview ( Dark Mode )
 
-<img src="/preview.gif" alt="preview" width="600px" />
+
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
@@ -35,7 +35,7 @@ export const workDetails = [
   {
     Position: "Frontend Web Developer",
     Company: `Company Name here`,
-    Location: "Bengaluru",
+    Location: "Tangerang",
     Type: "Full Time",
     Duration: "Sep 2021 - Dec 2021",
   }
